@@ -57,7 +57,7 @@ export default function AboutComp() {
     "Problem Solving",
     "Time Management",
   ];
-  const otherExperiences = ["Pramuka (Scouting)", "Gitar (Guitar)"];
+  const otherExperiences = ["Scouting", "Guitar"];
 
   return (
     <section
