@@ -5,7 +5,7 @@ import AboutComp from './components/AboutComp';
 import ContactComp from './components/ContactComp';
 import FooterComp from './components/FooterComp';
 import ExperienceComp from './components/ExperienceComp';
-import CertificateComp from './components/certificateComp';
+import CertificateComp from './components/CertificateComp';
 
 function App() {
   return (
