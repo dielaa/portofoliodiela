@@ -113,7 +113,7 @@ export default function CertificateComp() {
             </span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-3">
-            Certificate Gallery
+            Certificate
           </h1>
           <p className="text-gray-500 max-w-2xl mx-auto">
             Click on a card to see the certificate proof
